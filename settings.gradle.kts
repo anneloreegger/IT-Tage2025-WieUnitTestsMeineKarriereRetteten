@@ -1,0 +1,1 @@
+rootProject.name = "IT-Tage2025-WieUnitTestsMeineKarriereRetteten"
